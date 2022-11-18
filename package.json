@@ -77,7 +77,7 @@
     "@electron-forge/maker-rpm": "6.0.0-beta.43",
     "@electron-forge/maker-squirrel": "6.0.0-beta.43",
     "@electron-forge/maker-zip": "6.0.0-beta.43",
-    "@electron-forge/plugin-webpack": "6.0.0-beta.43",
+    "@electron-forge/plugin-webpack": "6.0.3",
     "@marshallofsound/webpack-asset-relocator-loader": "^0.5.0",
     "babel-loader": "^8.0.6",
     "css-loader": "^3.0.0",
